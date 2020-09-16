@@ -1,5 +1,7 @@
 <h1 align="center">Progressive Budget</h1>
-  
+
+## Demo<br>
+
   ## Description<br>
 
   A program for keeping track of budget
