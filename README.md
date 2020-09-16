@@ -1,7 +1,7 @@
 <h1 align="center">Progressive Budget</h1>
 
 ## Demo<br>
-![progressive budget app in action]"https://raw.githubusercontent.com/dcashdallas/HW-18-ProgressiveBudget/master/public/assets/progressivebudget.gif"
+![progressive budget app in action](https://raw.githubusercontent.com/dcashdallas/HW-18-ProgressiveBudget/master/public/assets/progressivebudget.gif)
 
   ## Description<br>
 
